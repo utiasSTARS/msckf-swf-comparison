@@ -13,6 +13,6 @@ If you use this work in your research, please cite the following paper:
   doi = {10.1109/CRV.2015.11},
   pages = {23--30},
   title = {The Battle for Filter Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter},
-  year = {2015},
+  year = {2015}
 }
 ```
