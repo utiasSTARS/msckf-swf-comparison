@@ -3,7 +3,7 @@ MATLAB code and data for our CRV 2015 paper, "The Battle for Filter Supremacy: A
 
 This code was written by Lee Clement and Valentin Peretroukhin. You may contact the authors at lee.clement@robotics.utias.utoronto.ca and valentin.peretroukhin@robotics.utias.utoronto.ca.
 
-If you use this work in your research, please cite:
+If you use this work in your research, please cite the following paper:
 
 ```
 @inproceedings{2015_Clement_Battle,
