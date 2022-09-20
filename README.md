@@ -5,7 +5,7 @@ This code was written by Lee Clement and Valentin Peretroukhin. You may contact 
 
 If you use this work in your research, please cite the following paper:
 
-```
+```bibtex
 @inproceedings{2015_Clement_Battle,
   address = {Halifax, Nova Scotia, Canada},
   author = {Lee Clement and Valentin Peretroukhin and Jacob Lambert and Jonathan Kelly},
